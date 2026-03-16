@@ -13,7 +13,7 @@
 本專案為中彰投職訓局「數位內容開發」課程之結業成果，打造一個專為數位創作者服務的垂直電商平台。結合「硬體銷售」與「作品展示」雙核心，讓使用者不僅能購買專業電繪板（Wacom、XP-Pen、Huion），更能建立個人創作 Portfolio，實踐社群互動理念。
 
 ### 線上演示
-- Demo 連結：（部署後填寫）
+- Demo 連結：http://inuly.infinityfreeapp.com（待網站開通部署）
 - GitHub 仓库：https://github.com/inulyovo/artcanvas-shop
 
 ---
