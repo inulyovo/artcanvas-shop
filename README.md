@@ -14,7 +14,7 @@
 
 ### 線上演示
 - Demo 連結：http://inuly.infinityfreeapp.com（待網站開通部署）
-- GitHub 仓库：https://github.com/inulyovo/artcanvas-shop
+- GitHub 倉庫：https://github.com/inulyovo/artcanvas-shop
 
 ---
 
